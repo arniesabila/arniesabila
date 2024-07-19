@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @arniesabila
 - 👀 I’m interested in web developer
+- 👀 I’m looking for an internship placement 
 - 🌱 I’m currently learning how to be a web programmer
 - 📫 How to reach me arniesabila58@gmail.com
 
